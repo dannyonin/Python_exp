@@ -8,4 +8,4 @@
 
 Pages list:
 - Page 1 -Basic 💻 🔌
-- Page 2 - Data Structures :+1
+- Page 2 - Data Structures   :+1
