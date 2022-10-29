@@ -6,7 +6,7 @@
 ### Skill level: Beginner Level 🏋️ 👾
 #### :electron:  Daniel Yonin  :electron: 
 #### requirments: Jupiter Collab , basic knowledge in python , Love and Passion to coding. 🏋️
-P.S - All the exercises taken from course in Udemy
+P.S Credit - All the exercises taken from course in Udemy by Paweł Krakowiak
 
 Pages list:
 - Page 1 - Basic 💻 🔌
